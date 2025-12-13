@@ -6,6 +6,7 @@ import deTranslations from "../../locales/de.json";
 import enTranslations from "../../locales/en.json";
 import esTranslations from "../../locales/es.json";
 import frTranslations from "../../locales/fr.json";
+import guTranslations from "../../locales/gu.json";
 import hiTranslations from "../../locales/hi.json";
 import itTranslations from "../../locales/it.json";
 import jaTranslations from "../../locales/ja.json";
@@ -38,6 +39,7 @@ i18n
       "hi",
       "nl",
       "sv",
+      "gu",
     ],
 
     resources: {
@@ -56,6 +58,7 @@ i18n
       sv: { translation: svTranslations },
       "zh-Hans": { translation: zhHansTranslations },
       hi: { translation: hiTranslations },
+      gu: { translation: guTranslations },
     },
 
     interpolation: { escapeValue: false },
