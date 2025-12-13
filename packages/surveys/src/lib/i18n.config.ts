@@ -14,6 +14,7 @@ import ptTranslations from "../../locales/pt.json";
 import roTranslations from "../../locales/ro.json";
 import ruTranslations from "../../locales/ru.json";
 import svTranslations from "../../locales/sv.json";
+import ukTranslations from "../../locales/uk.json";
 import uzTranslations from "../../locales/uz.json";
 import zhHansTranslations from "../../locales/zh-Hans.json";
 
@@ -33,6 +34,7 @@ i18n
       "ro",
       "ja",
       "ru",
+      "uk",
       "uz",
       "zh-Hans",
       "hi",
@@ -52,6 +54,7 @@ i18n
       ja: { translation: jaTranslations },
       nl: { translation: nlTranslations },
       ru: { translation: ruTranslations },
+      uk: { translation: ukTranslations },
       uz: { translation: uzTranslations },
       sv: { translation: svTranslations },
       "zh-Hans": { translation: zhHansTranslations },
