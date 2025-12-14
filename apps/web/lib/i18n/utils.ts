@@ -141,6 +141,7 @@ export const appLanguages = [
       "nl-NL": "Engels (VS)",
       "es-ES": "Inglés (EE.UU.)",
       "sv-SE": "Engelska (USA)",
+      "gu-IN": "અંગ્રેજી (યુએસ)",
     },
   },
   {
@@ -158,6 +159,7 @@ export const appLanguages = [
       "nl-NL": "Duits",
       "es-ES": "Alemán",
       "sv-SE": "Tyska",
+      "gu-IN": "જર્મન",
     },
   },
   {
@@ -175,6 +177,7 @@ export const appLanguages = [
       "nl-NL": "Portugees (Brazilië)",
       "es-ES": "Portugués (Brasil)",
       "sv-SE": "Portugisiska (Brasilien)",
+      "gu-IN": "પોર્ટુગીઝ (બ્રાઝિલ)",
     },
   },
   {
@@ -192,6 +195,7 @@ export const appLanguages = [
       "nl-NL": "Frans",
       "es-ES": "Francés",
       "sv-SE": "Franska",
+      "gu-IN": "ફ્રેન્ચ",
     },
   },
   {
@@ -209,6 +213,7 @@ export const appLanguages = [
       "nl-NL": "Chinees (Traditioneel)",
       "es-ES": "Chino (Tradicional)",
       "sv-SE": "Kinesiska (traditionell)",
+      "gu-IN": "ચાઇનીઝ (પરંપરાગત)",
     },
   },
   {
@@ -226,6 +231,7 @@ export const appLanguages = [
       "nl-NL": "Portugees (Portugal)",
       "es-ES": "Portugués (Portugal)",
       "sv-SE": "Portugisiska (Portugal)",
+      "gu-IN": "પોર્ટુગીઝ (પોર્ટુગલ)",
     },
   },
   {
@@ -243,6 +249,7 @@ export const appLanguages = [
       "nl-NL": "Roemeens",
       "es-ES": "Rumano",
       "sv-SE": "Rumänska",
+      "gu-IN": "રોમાનિયન",
     },
   },
   {
@@ -260,6 +267,7 @@ export const appLanguages = [
       "nl-NL": "Japans",
       "es-ES": "Japonés",
       "sv-SE": "Japanska",
+      "gu-IN": "જાપાનીઝ",
     },
   },
   {
@@ -277,6 +285,7 @@ export const appLanguages = [
       "nl-NL": "Chinees (Vereenvoudigd)",
       "es-ES": "Chino (Simplificado)",
       "sv-SE": "Kinesiska (förenklad)",
+      "gu-IN": "ચાઇનીઝ (સરળ)",
     },
   },
   {
@@ -294,6 +303,7 @@ export const appLanguages = [
       "nl-NL": "Nederlands",
       "es-ES": "Neerlandés",
       "sv-SE": "Nederländska",
+      "gu-IN": "ડચ",
     },
   },
   {
@@ -311,6 +321,7 @@ export const appLanguages = [
       "nl-NL": "Spaans",
       "es-ES": "Español",
       "sv-SE": "Spanska",
+      "gu-IN": "સ્પેનિશ",
     },
   },
   {
@@ -328,6 +339,25 @@ export const appLanguages = [
       "nl-NL": "Zweeds",
       "es-ES": "Sueco",
       "sv-SE": "Svenska",
+      "gu-IN": "સ્વીડિશ",
+    },
+  },
+  {
+    code: "gu-IN",
+    label: {
+      "en-US": "Gujarati",
+      "de-DE": "Gujarati",
+      "pt-BR": "Guzerate",
+      "fr-FR": "Gujarati",
+      "zh-Hant-TW": "古吉拉特語",
+      "pt-PT": "Guzerate",
+      "ro-RO": "Gujarati",
+      "ja-JP": "グジャラート語",
+      "zh-Hans-CN": "古吉拉特语",
+      "nl-NL": "Gujarati",
+      "es-ES": "Gujarati",
+      "sv-SE": "Gujarati",
+      "gu-IN": "ગુજરાતી",
     },
   },
 ];
