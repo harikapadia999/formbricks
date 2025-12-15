@@ -177,6 +177,7 @@ export const AVAILABLE_LOCALES: TUserLocale[] = [
   "zh-Hans-CN",
   "es-ES",
   "sv-SE",
+  "gu-IN",
 ];
 
 // Billing constants
@@ -248,12 +249,3 @@ export const SENTRY_ENVIRONMENT = env.SENTRY_ENVIRONMENT;
 export const SENTRY_DSN = env.SENTRY_DSN;
 
 export const PROMETHEUS_ENABLED = env.PROMETHEUS_ENABLED === "1";
-
-export const USER_MANAGEMENT_MINIMUM_ROLE = env.USER_MANAGEMENT_MINIMUM_ROLE ?? "manager";
-
-export const AUDIT_LOG_ENABLED = env.AUDIT_LOG_ENABLED === "1";
-export const AUDIT_LOG_GET_USER_IP = env.AUDIT_LOG_GET_USER_IP === "1";
-export const SESSION_MAX_AGE = Number(env.SESSION_MAX_AGE) || 86400;
-
-// Control hash for constant-time password verification to prevent timing attacks. Used when user doesn't exist to maintain consistent verification timing
-export const CONTROL_HASH = "$2b$12$fzHf9le13Ss9UJ04xzmsjODXpFJxz6vsnupoepF5FiqDECkX2BH5q";

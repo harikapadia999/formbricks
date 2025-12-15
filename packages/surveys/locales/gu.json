@@ -1,0 +1,73 @@
+{
+  "common": {
+    "and": "અને",
+    "apply": "લાગુ કરો",
+    "auto_close_wrapper": "ઓટો ક્લોઝ રેપર",
+    "back": "પાછળ",
+    "click_or_drag_to_upload_files": "ફાઇલો અપલોડ કરવા માટે ક્લિક કરો અથવા ખેંચો.",
+    "close_survey": "સર્વે બંધ કરો",
+    "company_logo": "કંપની લોગો",
+    "delete_file": "ફાઇલ કાઢી નાખો",
+    "file_upload": "ફાઇલ અપલોડ",
+    "finish": "સમાપ્ત",
+    "language_switch": "ભાષા સ્વિચ",
+    "less_than_x_minutes": "{count, plural, one {1 મિનિટ કરતાં ઓછું} other {{count} મિનિટ કરતાં ઓછું}}",
+    "move_down": "{item} નીચે ખસેડો",
+    "move_up": "{item} ઉપર ખસેડો",
+    "next": "આગળ",
+    "open_in_new_tab": "નવા ટેબમાં ખોલો",
+    "optional": "વૈકલ્પિક",
+    "options": "વિકલ્પો",
+    "people_responded": "{count, plural, one {1 વ્યક્તિએ પ્રતિસાદ આપ્યો} other {{count} લોકોએ પ્રતિસાદ આપ્યો}}",
+    "please_retry_now_or_try_again_later": "કૃપા કરીને હવે ફરી પ્રયાસ કરો અથવા પછીથી ફરી પ્રયાસ કરો.",
+    "powered_by": "દ્વારા સંચાલિત",
+    "privacy_policy": "ગોપનીયતા નીતિ",
+    "protected_by_reCAPTCHA_and_the_Google": "reCAPTCHA અને Google દ્વારા સુરક્ષિત",
+    "question": "પ્રશ્ન",
+    "question_video": "પ્રશ્ન વિડિઓ",
+    "ranking_items": "આઇટમ્સને રેન્ક કરવી",
+    "respondents_will_not_see_this_card": "પ્રતિસાદકર્તાઓ આ કાર્ડ જોઈ શકશે નહીં",
+    "retry": "ફરી પ્રયાસ કરો",
+    "select_a_date": "તારીખ પસંદ કરો",
+    "select_for_ranking": "રેન્કિંગ માટે {item} પસંદ કરો",
+    "sending_responses": "પ્રતિસાદો મોકલી રહ્યા છીએ...",
+    "takes": "લે છે",
+    "terms_of_service": "સેવાની શરતો",
+    "the_servers_cannot_be_reached_at_the_moment": "આ ક્ષણે સર્વર સુધી પહોંચી શકાતું નથી.",
+    "they_will_be_redirected_immediately": "તેઓને તરત જ રીડાયરેક્ટ કરવામાં આવશે",
+    "upload_files_by_clicking_or_dragging_them_here": "અહીં ક્લિક કરીને અથવા ખેંચીને ફાઇલો અપલોડ કરો",
+    "uploading": "અપલોડ કરી રહ્યા છીએ",
+    "x_minutes": "{count, plural, one {1 મિનિટ} other {{count} મિનિટ}}",
+    "x_plus_minutes": "{count}+ મિનિટ",
+    "you_have_selected_x_date": "તમે {date} પસંદ કર્યું છે",
+    "you_have_successfully_uploaded_the_file": "તમે સફળતાપૂર્વક {fileName} ફાઇલ અપલોડ કરી છે",
+    "your_feedback_is_stuck": "તમારો પ્રતિસાદ અટકી ગયો છે :("
+  },
+  "errors": {
+    "file_input": {
+      "duplicate_files": "નીચેની ફાઇલો પહેલેથી જ અપલોડ થઈ ગઈ છે: {duplicateNames}. ડુપ્લિકેટ ફાઇલોની મંજૂરી નથી.",
+      "file_size_exceeded": "નીચેની ફાઇલ(ઓ) મહત્તમ {maxSizeInMB} MB કદ કરતાં વધી ગઈ છે અને દૂર કરવામાં આવી છે: {fileNames}",
+      "file_size_exceeded_alert": "ફાઇલ {maxSizeInMB} MB કરતાં ઓછી હોવી જોઈએ",
+      "no_valid_file_types_selected": "કોઈ માન્ય ફાઇલ પ્રકાર પસંદ કરેલ નથી. કૃપા કરીને માન્ય ફાઇલ પ્રકાર પસંદ કરો.",
+      "only_one_file_can_be_uploaded_at_a_time": "એક સમયે માત્ર એક જ ફાઇલ અપલોડ કરી શકાય છે.",
+      "upload_failed": "અપલોડ નિષ્ફળ! કૃપા કરીને ફરી પ્રયાસ કરો.",
+      "you_can_only_upload_a_maximum_of_files": "તમે મહત્તમ {FILE_LIMIT} ફાઇલો અપલોડ કરી શકો છો."
+    },
+    "invalid_device_error": {
+      "message": "આ ઉપકરણનો ઉપયોગ ચાલુ રાખવા માટે કૃપા કરીને સર્વે સેટિંગ્સમાં સ્પામ સુરક્ષા અક્ષમ કરો.",
+      "title": "આ ઉપકરણ સ્પામ સુરક્ષાને સપોર્ટ કરતું નથી."
+    },
+    "please_book_an_appointment": "કૃપા કરીને એપોઇન્ટમેન્ટ બુક કરો",
+    "please_enter_a_valid_email_address": "કૃપા કરીને માન્ય ઇમેઇલ સરનામું દાખલ કરો",
+    "please_enter_a_valid_phone_number": "કૃપા કરીને માન્ય ફોન નંબર દાખલ કરો",
+    "please_enter_a_valid_url": "કૃપા કરીને માન્ય URL દાખલ કરો",
+    "please_fill_out_this_field": "કૃપા કરીને આ ફીલ્ડ ભરો",
+    "please_rank_all_items_before_submitting": "સબમિટ કરતા પહેલા કૃપા કરીને બધી આઇટમ્સને રેન્ક કરો",
+    "please_select_a_date": "કૃપા કરીને તારીખ પસંદ કરો",
+    "please_upload_a_file": "કૃપા કરીને ફાઇલ અપલોડ કરો",
+    "recaptcha_error": {
+      "message": "તમારો પ્રતિસાદ સબમિટ કરી શકાયો નથી કારણ કે તેને સ્વચાલિત પ્રવૃત્તિ તરીકે ચિહ્નિત કરવામાં આવ્યો હતો. જો તમે શ્વાસ લો છો, તો કૃપા કરીને ફરી પ્રયાસ કરો.",
+      "title": "અમે ચકાસી શક્યા નથી કે તમે માનવ છો."
+    }
+  }
+}

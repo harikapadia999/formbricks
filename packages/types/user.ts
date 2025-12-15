@@ -13,6 +13,7 @@ export const ZUserLocale = z.enum([
   "zh-Hans-CN",
   "es-ES",
   "sv-SE",
+  "gu-IN",
 ]);
 
 export type TUserLocale = z.infer<typeof ZUserLocale>;
